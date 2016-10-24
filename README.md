@@ -2,7 +2,7 @@
 
 ### Excercise
 
-Write an angular app which displays the current time formatted: London, UK: dd-MM-yyy hh:mm.  The time should be formatted using in black, with a font of Verdana and a size of 16pt.  The current time should be retrieved using the following api www.timeapi.org.
+Write an angular app which displays the current time formatted: London, UK: dd-MM-yyy hh:mm.  The time should be formatted in black with a font of Verdana and a size of 16pt.  The current time should be retrieved using the following api www.timeapi.org.
 
 Please feel free to ask any questions if something is unclear.
 
